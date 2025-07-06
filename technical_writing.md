@@ -3,4 +3,4 @@
 - How I use LLM
 - Vibe coding
 - AI super user, co-work with AI, being an AI super user.
-- Content : beautiful timelines, beautiful timelines on youtube, animated. 
+- Content : beautiful timelines, beautiful timelines on youtube, animated. Trivia. 
