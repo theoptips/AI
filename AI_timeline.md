@@ -5,4 +5,4 @@
 - 2016 AlphaGO
 - 2022 DALLE
 - 2022 Langchain Harrison Chase Initial release 2022 
-- 2025 DeepSeek (LLM)
+- 2025 DeepSeek (LLM) January 2025
