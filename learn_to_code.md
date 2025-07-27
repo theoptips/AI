@@ -1,3 +1,3 @@
 - Swift (no longer maintained) [Swift tutorial hosted on github](https://swifteducation.github.io/teaching_app_development_with_swift/)
 - Development
-- - Releases: what changes are included
+  - Releases: what changes are included
