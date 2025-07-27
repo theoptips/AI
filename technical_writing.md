@@ -7,3 +7,5 @@
 - Productivity, lifehack
 - Formula, math
 - Algorithms
+
+## My software and tech stack
